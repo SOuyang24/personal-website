@@ -15,8 +15,8 @@ export default function Home({ repositories }) {
       description="Developer portfolio to show what I have done"
     >
       <Hero />
-      <FavouriteProjects />
-      <LatestCode repositories={repositories} />
+      {/* <FavouriteProjects />
+      <LatestCode repositories={repositories} /> */}
     </ContainerBlock>
   );
 }

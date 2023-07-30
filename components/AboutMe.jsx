@@ -6,8 +6,8 @@ export default function AboutMe() {
   return (
     <section className="bg-white dark:bg-gray-800">
       <div className="max-w-6xl mx-auto h-48 bg-white dark:bg-gray-800">
-        <h1 className=" text-5xl md:text-9xl font-bold py-20 text-center md:text-left">
-          About Me.
+        <h1 className="text-5xl md:text-9xl font-bold py-20 text-center md:text-left dark:text-white">
+          About Me
         </h1>
       </div>
       <div className="bg-[#F1F1F1] -mt-10 dark:bg-gray-900">
@@ -36,8 +36,9 @@ export default function AboutMe() {
                 Contact
               </h1>
               <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">
-                For any inquery, shoot me a{" "}
+                For any inquery, shoot me an{" "}
                 <a
+                  target="_blank"
                   href={`mailto:${userData.email}`}
                   className="text-gray-800 border-b-2 border-gray-800 dark:border-gray-300 font-bold dark:text-gray-300"
                 >
@@ -58,7 +59,7 @@ export default function AboutMe() {
             <h1 className="text-xl font-semibold text-gray-700 mt-8 dark:text-gray-200">
               Social Links
             </h1>
-            <div className="mt-4 ml-4">
+            <div className="mt-1 ml-4">
               {/* peerlist */}
               {userData.socialLinks.peerlist && (
               <SocialLink title="PeerList" link={userData.socialLinks.peerlist}  />
@@ -86,12 +87,13 @@ export default function AboutMe() {
             <h1 className="bg-red-500 text-3xl rounded-md px-2 py-1 inline-block font-bold text-gray-50">
               Tech Stack
             </h1>
-            <img
+
+            <div className="flex flex-row flex-wrap mt-8">
+              <img
                 alt="TypeScript"
                 src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/TypeScript.svg"
                 className="h-20 w-20 mx-4 my-4"
               />
-            <div className="flex flex-row flex-wrap mt-8">
               <img
                 alt="JavaScript"
                 src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/JavaScript.svg"

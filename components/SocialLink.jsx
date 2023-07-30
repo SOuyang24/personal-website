@@ -6,6 +6,7 @@ const SocialLink = ({title, link}) => {
                 <a
                   href={link}
                   className="flex flex-row items-center space-x-4 group"
+                  target="_blank"
                 >
                   <div className="my-4">&rarr;</div>
                   <div className="text-lg text-gray-500 font-mono relative overflow-hidden dark:text-gray-300">
