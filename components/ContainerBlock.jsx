@@ -8,7 +8,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
   const router = useRouter();
 
   const meta = {
-    title: "Simon Ouyang - Innovator, Developer, Scrum Master",
+    title: "Simon Ouyang - Innovator, Developer, Designer, Scrum Master",
     name: "Simon Ouyang",
     description: `I've been developing web applications for 10 years straight. Get in touch with me to know more.`,
     image: "/avatar.png",

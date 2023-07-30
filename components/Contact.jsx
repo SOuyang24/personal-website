@@ -5,9 +5,9 @@ import emailjs from 'emailjs-com';
 import _ from 'lodash';
 import Swal from 'sweetalert2';
 
-const SERVICE_ID = 'service_0s51lik';
-const TEMPLATE_ID = 'template_52flizm';
-const USER_ID = 'nWF5xsM8Ves5Dmr3s';
+const SERVICE_ID = process.env.NEXT_PUBLIC_EMAIL_SERVICE_ID;
+const TEMPLATE_ID = process.env.NEXT_PUBLIC_EMAIL_TEMPLATE_ID;
+const USER_ID = process.env.NEXT_PUBLIC_EMAIL_USER_ID;
 
 export default function Contact() {
   const initialState = {
@@ -15,6 +15,7 @@ export default function Contact() {
     name: "",
     message: ""
   }
+
   const [errors, setErrors] = useState({});
   const [formData, setFormData] = useState(initialState);
   const validateFormInput = (e) => {
@@ -151,7 +152,7 @@ export default function Contact() {
             </label>
             <input
               type="text"
-              className="font-light rounded-md border focus:outline-none py-2 mt-2 px-1 mx-4 focus:ring-2 focus:border-none ring-blue-500"
+              className="font-light rounded-md border focus:outline-none py-2 mt-2 px-5 mx-4 focus:ring-2 focus:border-none ring-blue-500"
               name="name"
               placeholder="John Smith"
               onBlur={validateFormInput}
@@ -164,7 +165,7 @@ export default function Contact() {
             </label>
             <input
               type="text"
-              className="font-light rounded-md border focus:outline-none py-2 mt-2 px-1 mx-4 focus:ring-2 focus:border-none ring-blue-500"
+              className="font-light rounded-md border focus:outline-none py-2 mt-2 px-5 mx-4 focus:ring-2 focus:border-none ring-blue-500"
               name="email"
               placeholder="JohnSmith@example.com"
               onBlur={validateFormInput}
@@ -181,7 +182,7 @@ export default function Contact() {
             <textarea
               rows="4"
               type="text"
-              className="font-light rounded-md border focus:outline-none py-2 mt-2 px-1 mx-4 focus:ring-2 focus:border-none ring-blue-500"
+              className="font-light rounded-md border focus:outline-none py-2 mt-2 px-5 mx-4 focus:ring-2 focus:border-none ring-blue-500"
               name="message"
               placeholder="Hello World"
               onBlur={validateFormInput}

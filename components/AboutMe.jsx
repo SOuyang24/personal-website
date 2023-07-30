@@ -127,6 +127,16 @@ export default function AboutMe() {
                 className="h-20 w-20 mx-4 my-4" 
               />
               <img 
+                alt="NextJS" 
+                src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/NextJS-Dark.svg" 
+                className="h-20 w-20 mx-4 my-4" 
+              />
+              <img 
+                alt="Gatsby" 
+                src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/Gatsby.svg" 
+                className="h-20 w-20 mx-4 my-4" 
+              />
+              <img 
                 alt="Redux" 
                 src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/Redux.svg" 
                 className="h-20 w-20 mx-4 my-4" 
@@ -147,6 +157,11 @@ export default function AboutMe() {
                 className="h-20 w-20 mx-4 my-4" 
               />
               <img 
+                alt="GraphQL" 
+                src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/GraphQL-Dark.svg" 
+                className="h-20 w-20 mx-4 my-4" 
+              />
+              <img 
                 alt="NodeJS" 
                 src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/NodeJS-Dark.svg" 
                 className="h-20 w-20 mx-4 my-4" 
@@ -158,6 +173,11 @@ export default function AboutMe() {
               <img
                 alt="Spring" 
                 src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/Spring-Dark.svg"
+                className="h-20 w-20 mx-4 my-4"
+              />
+              <img
+                alt="Hibernate" 
+                src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/Hibernate-Dark.svg"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
@@ -183,6 +203,21 @@ export default function AboutMe() {
               <img
                 alt="AWS" 
                 src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/AWS-Dark.svg"
+                className="h-20 w-20 mx-4 my-4"
+              />
+              <img
+                alt="Docker" 
+                src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/Docker.svg"
+                className="h-20 w-20 mx-4 my-4"
+              />
+              <img
+                alt="Kubernates" 
+                src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/Kubernetes.svg"
+                className="h-20 w-20 mx-4 my-4"
+              />
+              <img
+                alt="Jenkins" 
+                src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/Jenkins-Dark.svg"
                 className="h-20 w-20 mx-4 my-4"
               />
             </div>
