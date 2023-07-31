@@ -37,7 +37,7 @@ export default function Hero() {
       <div className="hidden lg:block relative w-full md:w-1/2 -mr-40 mt-20">
         <div className="w-1/2">
           <img src={userData.avatarUrl} alt="avatar" className=" shadow" />
-          <div className="flex flex-row justify-between mt-4">
+          <div className="flex flex-row justify-between mt-4 text-gray-700 dark:text-gray-200">
             <div className="flex flex-row space-x-4">
               <svg
                 xmlns="http://www.w3.org/2000/svg"

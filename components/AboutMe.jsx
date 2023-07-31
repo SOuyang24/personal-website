@@ -10,13 +10,13 @@ export default function AboutMe() {
           About Me
         </h1>
       </div>
-      <div className="bg-[#F1F1F1] -mt-10 dark:bg-gray-900">
+      <div className="bg-[#F1F1F1] -mt-10 dark:bg-gray-900 text-gray-700 dark:text-gray-200" >
         <div className="text-container max-w-6xl mx-auto pt-20">
           <p
             className="leading-loose text-2xl md:text-4xl font-semibold  mx-4"
             style={{ lineHeight: "3rem" }}
           >
-            {userData.about.title}. Currently working in{" "}
+            {userData.about.title} Currently working in{" "}
             <a
               className="bg-red-500 rounded-md px-2 py-1 text-white"
               href={userData.about.currentCompanyUrl}
