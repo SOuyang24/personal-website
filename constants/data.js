@@ -47,7 +47,7 @@ const userData = {
       company: "Boston Consulting Group",
       year: "2019.5 - present",
       companyLink: "https://bcg.com",
-      desc: "Full stack engineer and tech lead in an eight-person team and my role including accessible and responsive UI and web service implementation on card and balance management along with team management for the digital wallet mobile app. Product was purchased and used by OXXO, with 20,000+ stores in Latin America.",
+      desc: "Pod lead and full stack developer in a 10-person team to launch the Hispanic Scholarship Application portal and my role involves form section review and submission. The portal was launched for 80,000+ qualified candidates.",
     },
     {
       title: "Hackathon player",
