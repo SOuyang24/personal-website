@@ -51,7 +51,7 @@ export default function Contact() {
     }
     if (Object.keys(formErrors).length === 0) {
       const {name, email, message} = formData;
-      emailjs.send(SERVICE_ID, TEMPLATE_ID, {from_name: name, to_name: "simon ouyang", from_email: email, message, reply_to: "simonouyang@gmail.com"}, USER_ID)
+      emailjs.send(SERVICE_ID, TEMPLATE_ID, {from_name: name, to_name: "Xi Ouyang", from_email: email, message, reply_to: "simonouyang@gmail.com"}, USER_ID)
       .then((result) => {
         console.info(result.text);
         Swal.fire({

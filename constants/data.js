@@ -1,13 +1,75 @@
 const userData = {
   githubUsername: "manuarora700",
   linkedin: "https://www.linkedin.com/in/xi-ouyang/",
-  name: "Simon Ouyang",
+  name: "Xi Ouyang",
   designation: "Full-Stack Engineer",
   avatarUrl: "/avatar.jpeg",
   email: "simonouyang@gmail.com",
   phone: "+1 4244759376",
   address: "Los Angeles, California, USA",
-  projects: [
+  favouriteCertifications: [
+    {
+      title: "Certified Jenkins Engineer",
+      link: "https://certificates.cloudbees.com/fc894af2-c74f-485f-8466-39561d474596",
+      imageUrl: "/certificates/Jenkins.png"
+    },
+    {
+      title: "Oracle Certified Java EE 5 Web Service Developer",
+      link: "https://drive.google.com/file/d/1E0fYbame7e1VkW1_9ugU5lxIuCMGkTpU/view?usp=sharing",
+      imageUrl: "/certificates/javaEE.png"
+    },
+    {
+      title: "Certified Python Developer for Big Data",
+      link: "https://www.edureka.co/my-certificate/791122bd54499049775047642e107fd4?utm_source=linkedin&utm_medium=cert&utm_campaign=linkedincert",
+      imageUrl: "/certificates/python.png"
+    },
+  ],
+  certificates: [
+    {
+      title: "Enterprise Blockchain Professional",
+      link: "https://www.credential.net/1847ea65-047f-453b-926a-d27fdfef2608",
+      imageUrl: "/certificates/enterprise-blockchain-professional.png"
+    },
+    {
+      title: "Certified Scrum Product Owner",
+      link: "https://certification.scrumalliance.org/accounts/1241022-xi-ouyang/certifications/1438962-cspo",
+      imageUrl: "/certificates/scrum-product-owner.png"
+    },
+    {
+      title: "Certified Scrum Master",
+      link: "https://certification.scrumalliance.org/accounts/1241022-xi-ouyang/certifications/1436305-csm",
+      imageUrl: "/certificates/scrum-master.png"
+    },
+    {
+      title: "Team Kanban Practitioner",
+      link: "https://edu.kanban.university/user/78370/9/qualification-certificate/WGkgT3V5YW5nOlNpbW9uQDY2MDg6MTYzMjAxNjY3OA==",
+      imageUrl: "/certificates/kanban.png"
+    },
+    {
+      title: "Certified Jenkins Engineer",
+      link: "https://certificates.cloudbees.com/fc894af2-c74f-485f-8466-39561d474596",
+      imageUrl: "/certificates/jenkins.png"
+    },
+    {
+      title: "Certified Python Developer for Big Data",
+      link: "https://www.edureka.co/my-certificate/791122bd54499049775047642e107fd4?utm_source=linkedin&utm_medium=cert&utm_campaign=linkedincert",
+      imageUrl: "/certificates/python.png"
+    },
+    {
+      title: "Oracle Certified Java EE 5 Web Service Developer",
+      link: "https://drive.google.com/file/d/1E0fYbame7e1VkW1_9ugU5lxIuCMGkTpU/view?usp=sharing",
+      imageUrl: "/certificates/javaEE.png"
+    },
+    {
+      title: "Cloudera Certified Developer for Apache Hadoop",
+      link: "https://drive.google.com/file/d/1udc12KuhXXWlWgqHlHoifGbOLgzMJ8Z4/view?usp=sharing",
+      imageUrl: "/certificates/hadoop.png"
+    },
+    {
+      title: "Sun Certified Programmer for Java 5",
+      link: "https://drive.google.com/file/d/0B4Z2LFqnx6n0VjFKemRycXRIVFMwTGhyODZLQnV5d182N2VB/view?usp=sharing&resourcekey=0-sLVxFRSycOtNuD4Qbz2-Ew",
+      imageUrl: "/certificates/java.png"
+    },
   ],
   about: {
     title:
