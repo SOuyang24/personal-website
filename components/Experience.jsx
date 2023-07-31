@@ -5,7 +5,7 @@ export default function Experience() {
   return (
     <section className="bg-white dark:bg-gray-800">
       <div className="max-w-6xl mx-auto h-48 bg-white dark:bg-gray-800 md:pl-10">
-        <h1 className=" text-5xl md:text-9xl font-bold py-20 text-center md:text-left">
+        <h1 className=" text-5xl md:text-9xl font-bold py-10 text-center md:text-left">
           Experience
         </h1>
       </div>
@@ -41,7 +41,7 @@ export default function Experience() {
 const ExperienceCard = ({ title, desc, year, company, companyLink }) => {
   return (
     <div className="relative experience-card border p-4 rounded-md shadow-xl bg-white dark:bg-gray-800 z-10 mx-4">
-      <h1 className="absolute -top-12 md:-left-10 text-4xl text-gray-400 font-bold dark:text-gray-600">
+      <h1 className="absolute -top-12 md:-left-10 text-4xl text-gray-400 font-bold dark:text-gray-500">
         {year}
       </h1>
       <h1 className="font-semibold text-xl mt-2">{title}</h1>

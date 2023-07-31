@@ -28,7 +28,7 @@ export default function Certificates() {
 
 const CertificateCard = ({ title, link, imageUrl, number }) => {
   return (
-    <a href={link} className="w-full block shadow-2xl">
+    <a href={link} className="w-full block shadow-2xl" target="_blank">
       <div className="relative overflow-hidden">
         <div className="h-72 object-cover">
           <img
