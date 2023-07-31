@@ -181,7 +181,7 @@ export default function Navbar() {
           </button>
         </div>
       </div>
-      <div className="space-x-8 block md:hidden mt-4">
+      <div className="space-x-3 block md:hidden mt-4">
         <Link
           href="/about"
           className={`text-base ${
