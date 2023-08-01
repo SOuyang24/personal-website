@@ -11,7 +11,7 @@ const userData = {
     {
       title: "Certified Jenkins Engineer",
       link: "https://certificates.cloudbees.com/fc894af2-c74f-485f-8466-39561d474596",
-      imageUrl: "/certificates/Jenkins.png"
+      imageUrl: "/certificates/jenkins.png"
     },
     {
       title: "Oracle Certified Java EE 5 Web Service Developer",
