@@ -76,7 +76,7 @@ const userData = {
       "I have years of experience in designing, developing, deploying full-stack applications across industries like E-commerce, Healthcare, Biotech, Energy, etc.",
     description: [
       `Over the years, I have been deeply involved in developing, architecting, and deploying full-stack applications in diverse industries, including E-commerce, healthcare, Biotechnology, Energy, and Non-profit organizations (NGO).`,
-      `I have a solid grasp on various languages and frameworks such as TypeScript, JavaScript, Java, Python, React, Spring Boot, Django, Node.js, and Express. I'm skilled in working with databases like MongoDB, MySQL, and Postgres, and employ Serverless Framework and Terraform for cloud deployment on AWS and Azure.`,
+      `I have a solid grasp on various languages and frameworks such as TypeScript, JavaScript, Java, Python, C#, React, Spring Boot, Django, Node.js, ASP.NET Core. I'm skilled in working with databases like MongoDB, MySQL, and Postgres, and employ Serverless Framework and Terraform for cloud deployment on AWS and Azure.`,
       `Besides my technical prowess, I'm known for fostering collaboration and inclusivity in teams, and value clear communication with both leadership and clients for project success.`
     ],
     currentCompany: "BCG X",
