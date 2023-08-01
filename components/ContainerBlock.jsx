@@ -8,9 +8,9 @@ export default function ContainerBlock({ children, ...customMeta }) {
   const router = useRouter();
 
   const meta = {
-    title: "Xi Ouyang - Innovator, Developer, Designer, Scrum Master",
+    title: "Xi Ouyang - Innovator, Full-Stack Developer, Designer, Scrum Master",
     name: "Xi Ouyang",
-    description: `I've been developing web applications for 10 years straight. Get in touch with me to know more.`,
+    description: `I've been developing end-to-end web applications for 10 years straight. Get in touch with me to know more.`,
     image: "/avatar.png",
     type: "website",
     ...customMeta,
@@ -23,11 +23,11 @@ export default function ContainerBlock({ children, ...customMeta }) {
         <meta content={meta.description} name="description" />
         <meta
           property="og:url"
-          content={`https://https://simon-ouyang.vercel.app/${router.asPath}`}
+          content={`https://simon-ouyang.vercel.app/${router.asPath}`}
         />
         <link
           rel="canonical"
-          href={`https://https://simon-ouyang.vercel.app/${router.asPath}`}
+          href={`https://simon-ouyang.vercel.app/${router.asPath}`}
         />
         <meta property="og:type" content={meta.type} />
         <meta property="og:site_name" content={meta.name} />
