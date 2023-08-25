@@ -84,7 +84,7 @@ const userData = {
   },
   experience: [
     {
-      title: "Pod lead and Founding engineer",
+      title: "Founding engineer and Tech Lead",
       company: "Boston Consulting Group",
       year: "2019.5 - present",
       companyLink: "https://www.bcg.com/x",
@@ -105,21 +105,21 @@ const userData = {
       desc: "Acted as a Founding Engineer and Pod Lead, overseeing end-to-end implementation and deployment of card and balance management, as well as peer-to-peer payments functionality for a digital wallet app similar to Venmo. Successfully launched the product, garnering millions of active users and facilitating direct money transfers and deposits across 20,000+ fast-chain stores in Latin America.",
     },
     {
-      title: "Pod lead and full stack engineer",
+      title: "Founding Engineer and Pod lead",
       company: "Boston Consulting Group",
       year: "2019.5 - present",
       companyLink: "https://www.bcg.com",
       desc: "As Pod Lead and Full Stack Developer, spearheaded the creation of a scalable developer portal catering to over 2000 software engineers in a multinational corporation. Developed a Role-Based Access Control (RBAC) centralized software catalog, effectively managing ownership, metadata, and technical documentation across 100+ teams. Integrated plugins like Jira, Jenkins, SonarQube, and BitBucket to facilitate efficient code shipping and monitoring for various product teams. Achieved a significant improvement in onboarding, reducing the average time from two weeks to just one day.",
     },
     {
-      title: "Pod lead and full stack engineer",
+      title: "Pod lead and Founding Engineer",
       company: "Boston Consulting Group",
       year: "2019.5 - present",
       companyLink: "https://www.bcg.com/x",
       desc: "Acted as a Pod lead and full stack developer to launch the Hispanic Scholarship Application portal and my role involved leading and developing form section review and submission work flow. The portal was successfully launched for 80,000+ qualified candidates nationawide in United States.",
     },
     {
-      title: "Pod lead and mobile developer",
+      title: "Pod lead and Founding Engineer",
       company: "Boston Consulting Group",
       year: "2019.5 - present",
       companyLink: "https://www.bcg.com/x",
