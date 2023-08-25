@@ -145,7 +145,7 @@ const userData = {
       year: "2012.12 - 2019.4",
       companyLink: "https://www.rsidelivers.com/",
       desc: "Guided a team of three in the transformation of existing monolithic tax processing modules into a horizontally scalable architecture consisting of eight microservices. This initiative led to a remarkable 60% reduction in application deployment time.",
-    }
+    },
     {
       title: "Full stack engineer",
       company: "Revenue Solutions Inc.",
