@@ -73,50 +73,57 @@ const userData = {
   ],
   about: {
     title:
-      "I have years of experience in designing, developing, deploying full-stack applications across industries like E-commerce, Healthcare, Biotech, Energy, etc.",
+      "I have years of start-up and venture building experience in designing, developing, deploying full-stack applications for external companies across industries like E-commerce, Healthcare, Biotech, Energy, etc.",
     description: [
-      `Over the years, I have been deeply involved in developing, architecting, and deploying full-stack applications in diverse industries, including E-commerce, healthcare, Biotechnology, Energy, and Non-profit organizations (NGO).`,
-      `I have a solid grasp on various languages and frameworks such as TypeScript, JavaScript, Java, Python, React, Spring Boot, Django, Node.js. I'm skilled in working with databases like MongoDB, MySQL, and Postgres, and employ Serverless Framework and Terraform for cloud deployment on AWS and Azure.`,
-      `Besides my technical prowess, I'm known for fostering collaboration and inclusivity in teams, and value clear communication with both leadership and clients for project success.`
+      `Over the years, I have extensive experience developing and deploying high-performance web and mobile applications in diverse industries such as E-commerce, Healthcare, Biotechnology, Energy, Fintech, and Education.`,
+      ` I am proficient in languages like TypeScript, JavaScript, Java, and Python, as well as frameworks including React, React Native, Spring Boot, Django, and Node.js.` `Additionally, I have expertise in databases like MongoDB, MySQL, and Postgres, and I utilize Serverless Framework and Terraform for cloud deployment on AWS, GCP and Azure.`,
+      `In addition to my technical skills, I'm recognized for promoting teamwork and inclusivity within teams. I prioritize transparent communication with both leadership and clients to ensure project success.`
     ],
     currentCompany: "BCG X",
-    currentCompanyUrl: "https://www.bcg.com/x",
+    currentCompanyUrl: "https://bcg.com/x",
   },
   experience: [
     {
-      title: "Pod lead and full stack engineer",
+      title: "Pod lead and Founding engineer",
       company: "Boston Consulting Group",
       year: "2019.5 - present",
       companyLink: "https://www.bcg.com/x",
-      desc: "Fulfilled roles as Full Stack Engineer and Tech Lead for a team of seven, leading the creation and launch of a healthcare digital platform. Collaborated with Health Industry experts to define question priorities and tailored action pathways for HIV risk individuals. Secured a significant contract with industry leader Gilead.",
+      desc: "Served as a Founding Engineer and Tech Lead in the team, overseeing the end-to-end creation and launch of a platform-agnostic HIPPA and GDPR compliance healthcare digital platform. This platform offered personalized prioritized action plans for individuals at risk of HIV, aiming to mitigate their specific risks. This platform was purchased by Gilead Science for future use.",
     },
     {
-      title: "Pod lead and full stack engineer",
+      title: "Founding Engineer and Tech lead",
       company: "Boston Consulting Group",
       year: "2019.5 - present",
       companyLink: "https://www.bcg.com/x",
-      desc: "Led a 5-person team as Tech Lead, launching a complete branded reverse logistics solution for multiple retailers at e-commerce startup. Implemented efficient drop-off flow. Collaborated with the initial clients to gather requirements on portal customization for branding purpose. Reduced the refund process from 30 days to 3-5 days and cut off up to 70% savings in return shipping costs for millions of users from multiple vendors, including NorthBoys, Numi, California Cowboy, Franc, K-Swiss.",
+      desc: "Served as a Founding Engineer and Tech Lead in the team, launching a complete branded return management solution for multiple retailers at e-commerce startup. Implemented efficient drop-off flow. Collaborated with the initial clients to gather requirements on portal customization for branding purpose. Reduced the refund process from 30 days to 3-5 days and cut off up to 70% savings in return shipping costs for millions of users from multiple vendors, including NorthBoys, Numi, California Cowboy, Franc, K-Swiss.",
     },
     {
-      title: "Pod lead and frontend engineer",
-      company: "Boston Consulting Group",
+      title: "Founding Engineer and Pod lead",
+      company: "BCG Digital Ventures",
       year: "2019.5 - present",
-      companyLink: "https://www.bcg.com/x",
-      desc: "Led a 5-person front-end team as Tech Lead, overseeing frontend implementation for card and balance management, as well as P2P payments among contacts for SPIN, a digital wallet app like Venmo. Successfully launched the product for millions of users across 20,000+ fast-chain stores in Latin America.",
+      companyLink: "https://bcgdv.com/",
+      desc: "Acted as a Founding Engineer and Pod Lead, overseeing end-to-end implementation and deployment of card and balance management, as well as peer-to-peer payments functionality for a digital wallet app similar to Venmo. Successfully launched the product, garnering millions of active users and facilitating direct money transfers and deposits across 20,000+ fast-chain stores in Latin America.",
     },
     {
       title: "Pod lead and full stack engineer",
       company: "Boston Consulting Group",
       year: "2019.5 - present",
       companyLink: "https://www.bcg.com",
-      desc: "Served as Pod Lead and Full Stack Developer within a 5-person team, delivering a developer portal for a multinational Energy company. Created a RBAC-based software catalog, managing ownership, metadata, and techDocs. Enabled efficient code shipping and monitoring for product teams via integrated plugins (Jira, Jenkins, SonarQube, BitBucket). Drastically streamlined onboarding, reducing average time from two weeks to one day.",
+      desc: "As Pod Lead and Full Stack Developer, spearheaded the creation of a scalable developer portal catering to over 2000 software engineers in a multinational corporation. Developed a Role-Based Access Control (RBAC) centralized software catalog, effectively managing ownership, metadata, and technical documentation across 100+ teams. Integrated plugins like Jira, Jenkins, SonarQube, and BitBucket to facilitate efficient code shipping and monitoring for various product teams. Achieved a significant improvement in onboarding, reducing the average time from two weeks to just one day.",
     },
     {
       title: "Pod lead and full stack engineer",
       company: "Boston Consulting Group",
       year: "2019.5 - present",
-      companyLink: "https://www.bcg.com",
-      desc: "Pod lead and full stack developer in a 5-person team to launch the Hispanic Scholarship Application portal and my role involves form section review and submission work flow. The portal was launched for 80,000+ qualified candidates.",
+      companyLink: "https://www.bcg.com/x",
+      desc: "Acted as a Pod lead and full stack developer to launch the Hispanic Scholarship Application portal and my role involved leading and developing form section review and submission work flow. The portal was successfully launched for 80,000+ qualified candidates nationawide in United States.",
+    },
+    {
+      title: "Pod lead and mobile developer",
+      company: "Boston Consulting Group",
+      year: "2019.5 - present",
+      companyLink: "https://www.bcg.com/x",
+      desc: "Led a team of five as a Mobile App Developer, driving the design, development, and rollout of a doctor appointment workflow within a nationwide, centralized, in-network healthcare digital platform. The platform catered to millions of patients and included features like nearby doctor search and appointment management (booking, canceling, rescheduling). Presented expert insights on mobile app accessibility best practices to a larger team of 30 members."
     },
     {
       title: "Hackathon player",
@@ -130,21 +137,21 @@ const userData = {
       company: "Revenue Solutions Inc.",
       year: "2012.12 - 2019.4",
       companyLink: "https://www.rsidelivers.com/",
-      desc: "•	Led a team of four people, identified, triage and fixed performance bottlenecks on frontend and backend during multi-user load testing for online tax payment processing and tax notice generation for department of revenue in states or cities. Reduced the 80% of commonly used web page rendering and processing from 5 seconds in average to sub-second, which greatly increased the efficiency of the application thus helped the company win multiple contracts in different states.",
+      desc: "Guided a team of four individuals in addressing and resolving performance bottlenecks across frontend and backend systems during multi-user load testing. Focused on optimizing online tax payment processing and tax notice generation for government revenue departments at state and city levels. Successfully achieved a reduction of commonly used webpage rendering and processing times from an average of 5 seconds to sub-second, significantly enhancing application efficiency. Instrumental in securing multiple contracts across different states due to the improved system performance.",
     },
     {
       title: "Tech Lead and performance engineer",
       company: "Revenue Solutions Inc.",
       year: "2012.12 - 2019.4",
       companyLink: "https://www.rsidelivers.com/",
-      desc: "Led a team of three people componentizing the existing monolith tax processing modules to horizontally scalable 8 micro-services with reliable deployment using Spring Boot, Java, Docker. It reduced the application deploy time by 60%.",
+      desc: "Guided a team of three in the transformation of existing monolithic tax processing modules into a horizontally scalable architecture consisting of eight microservices. This initiative led to a remarkable 60% reduction in application deployment time.",
     }
     {
       title: "Full stack engineer",
       company: "Revenue Solutions Inc.",
       year: "2012.12 - 2019.4",
       companyLink: "https://www.rsidelivers.com/",
-      desc: "Analyzed, designed, and implemented multiple web components, pages and web services for online tax notice generation, tax accounting & processing securing contracts with the Department of Revenue in multiple states and cities",
+      desc: "Responsible for analysis, design, and implementation of diverse web components, pages, and web services integral to online tax notice generation and tax accounting & processing. These contributions were instrumental in securing contracts with the Department of Revenue across multiple states and cities.",
     },     
     {
       title: "Master of Computer Science",
