@@ -95,7 +95,7 @@ const userData = {
       company: "Boston Consulting Group",
       year: "2019.5 - present",
       companyLink: "https://www.bcg.com/x",
-      desc: "Served as a Founding Engineer and Tech Lead in the team, launching a complete branded return management solution for multiple retailers at e-commerce startup. Implemented efficient drop-off flow. Collaborated with the initial clients to gather requirements on portal customization for branding purpose. Reduced the refund process from 30 days to 3-5 days and cut off up to 70% savings in return shipping costs for millions of users from multiple vendors, including NorthBoys, Numi, California Cowboy, Franc, K-Swiss.",
+      desc: "Served as a Founding Engineer and Tech Lead in the team, launching a complete branded return management solution for multiple retailers at e-commerce startup. Implemented efficient drop-off flow. Collaborated with the initial clients to gather requirements on portal customization for branding purpose. Reduced the refund process from 30 days to 3-5 days and cut off up to 70% savings in return shipping costs for millions of users from multiple vendors, including Palladium, Numi, California Cowboy, Franc, K-Swiss.",
     },
     {
       title: "Founding Engineer and Pod lead",
