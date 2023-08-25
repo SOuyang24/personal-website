@@ -79,7 +79,7 @@ const userData = {
       ` I am proficient in languages like TypeScript, JavaScript, Java, and Python, as well as frameworks including React, React Native, Spring Boot, Django, and Node.js.`,`Additionally, I have expertise in databases like MongoDB, MySQL, and Postgres, and I utilize Serverless Framework and Terraform for cloud deployment on AWS, GCP and Azure.`,
       `In addition to my technical skills, I'm recognized for promoting teamwork and inclusivity within teams. I prioritize transparent communication with both leadership and clients to ensure project success.`
     ],
-    currentCompany: "BCG X",
+    currentCompany: "Boston Consulting Group",
     currentCompanyUrl: "https://bcg.com/x",
   },
   experience: [
@@ -99,7 +99,7 @@ const userData = {
     },
     {
       title: "Founding Engineer and Pod lead",
-      company: "BCG Digital Ventures",
+      company: "Boston Consluting Group",
       year: "2019.5 - present",
       companyLink: "https://bcgdv.com/",
       desc: "Acted as a Founding Engineer and Pod Lead, overseeing end-to-end implementation and deployment of card and balance management, as well as peer-to-peer payments functionality for a digital wallet app similar to Venmo. Successfully launched the product, garnering millions of active users and facilitating direct money transfers and deposits across 20,000+ fast-chain stores in Latin America.",
