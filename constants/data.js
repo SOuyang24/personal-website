@@ -88,28 +88,28 @@ const userData = {
       company: "Boston Consulting Group",
       year: "2019.5 - present",
       companyLink: "https://www.bcg.com/x",
-      desc: "Served as a Founding Engineer and Tech Lead in the team, overseeing the end-to-end creation and launch of a platform-agnostic HIPPA and GDPR compliance healthcare digital platform. This platform offered personalized prioritized action plans for individuals at risk of HIV, aiming to mitigate their specific risks. This platform was purchased by Gilead Science for future use.",
+      desc: "Served as a Founding Engineer and Tech Lead overseeing the end-to-end creation and launch of a platform-agnostic public facing healthcare digital web application that provides personalized prioritized action plans for individuals to mitigate HIV risks. Successful led a team of five for launching the application in production, and it was purchased by Gilead Science for future use with a few publications.",
     },
     {
       title: "Founding Engineer and Tech lead",
       company: "Boston Consulting Group",
       year: "2019.5 - present",
       companyLink: "https://www.bcg.com/x",
-      desc: "Served as a Founding Engineer and Tech Lead in the team, launching a complete branded return management solution for multiple retailers at e-commerce startup. Implemented efficient drop-off flow. Collaborated with the initial clients to gather requirements on portal customization for branding purpose. Reduced the refund process from 30 days to 3-5 days and cut off up to 70% savings in return shipping costs for millions of users from multiple vendors, including Palladium, Numi, California Cowboy, Franc, K-Swiss.",
+      desc: "As a Founding Engineer and Tech Lead, led a team of five and spearheaded the successful launch of an omni-channel return management solution catering to multiple retailers within an e-commerce startup. Strategically implemented streamlined mail-in and drop-off return processes on both administrative and customer fronts, resulting in a significant reduction of refund processing time from up to two weeks to up to 30 minutes and reduced 70% in return shipping costs for millions of users from several retailer vendors choosing drop-off options.",
     },
     {
       title: "Founding Engineer and Pod lead",
       company: "Boston Consluting Group",
       year: "2019.5 - present",
       companyLink: "https://bcgdv.com/",
-      desc: "Acted as a Founding Engineer and Pod Lead, overseeing end-to-end implementation and deployment of card and balance management, as well as peer-to-peer payments functionality for a digital wallet app similar to Venmo. Successfully launched the product, garnering millions of active users and facilitating direct money transfers and deposits across 20,000+ fast-chain stores in Latin America.",
+      desc: "Acted as a Founding Engineer and Pod Lead, led a team of three for an end-to-end implementation and deployment of card and balance management, as well as peer-to-peer payments functionality for a digital wallet app Spin by OXXO similar to Venmo. The product was launched successfully in App Store and Google Play with 10M+ downloads, facilitating money deposit and transfer across 20,000+ fast-chain stores in Latin America.",
     },
     {
       title: "Founding Engineer and Pod lead",
       company: "Boston Consulting Group",
       year: "2019.5 - present",
       companyLink: "https://www.bcg.com",
-      desc: "As Pod Lead and Full Stack Developer, spearheaded the creation of a scalable developer portal catering to over 2000 software engineers in a multinational corporation. Developed a Role-Based Access Control (RBAC) centralized software catalog, effectively managing ownership, metadata, and technical documentation across 100+ teams. Integrated plugins like Jira, Jenkins, SonarQube, and BitBucket to facilitate efficient code shipping and monitoring for various product teams. Achieved a significant improvement in onboarding, reducing the average time from two weeks to just one day.",
+      desc: "As Pod Lead and Full Stack Developer, led a team of seven for a scalable, high-available internal developer portal catering to over 2000 software engineers in a multinational corporation. Developed a Role-Based Access Control (RBAC) centralized software catalog with SSO (Single Sign On) authorization, effectively managing ownership, metadata, and technical documentation across 100+ teams. Integrated plugins like Jira, Jenkins, SonarQube, and BitBucket for facilitating efficient code shipping, real-time deployment monitoring for all product ",
     },
     {
       title: "Pod lead and Founding Engineer",
@@ -123,8 +123,13 @@ const userData = {
       company: "Boston Consulting Group",
       year: "2019.5 - present",
       companyLink: "https://www.bcg.com/x",
-      desc: "Led a team of five as a Mobile App Developer, driving the design, development, and rollout of a doctor appointment workflow within a nationwide, centralized, in-network healthcare digital platform. The platform catered to millions of patients and included features like nearby doctor search and appointment management (booking, canceling, rescheduling). Presented expert insights on mobile app accessibility best practices to a larger team of 30 members."
+      desc: "Led a pod of five as a Mobile App Developer, driving the design, development, and rollout of a doctor appointment workflow within a nationwide, centralized, in-network healthcare digital platform. The platform catered to millions of patients and included features like nearby doctor search and appointment management (booking, canceling, rescheduling). Presented expert insights and standard on mobile app accessibility best practices to whole team of 50 members"
     },
+    { 
+    company: "Boston Consulting Group",
+    year: "2019.5 - present",
+    companyLink: "https://www.bcg.com/x",
+    desc: "Led a pod of five as a Web App Developer, driving the design, development, and rollout of gas meter upgrade platform within a nationwide, centralized, in-network energy digital platform. The platform catered to millions of residents and generator contractors with features like onboarding new generator company and gas install appointment management (booking, canceling, rescheduling)."}, 
     {
       title: "Hackathon player",
       company: "Boston Consulting Group",
