@@ -157,7 +157,14 @@ const userData = {
       year: "2012.12 - 2019.4",
       companyLink: "https://www.rsidelivers.com/",
       desc: "Responsible for analysis, design, and implementation of diverse web components, pages, and web services integral to online tax notice generation and tax accounting & processing. These contributions were instrumental in securing contracts with the Department of Revenue across multiple states and cities.",
-    },     
+    }, 
+    {
+      title: "Software Engineer",
+      company: "HSBC",
+      year: "2007.6 - 2009.7",
+      companyLink: "https://www.hsbc.com.cn/en-cn/",
+      desc: "Executed design and development of diverse web service for wealth management team specialized in mutual fund processing, stock order processing using Java, JavaEE, Oracle Database. These contributions were instrumental in serving millions of investors in HongKong and Mainland China.",
+    },        
     {
       title: "Master of Computer Science",
       company: "Rochester Institue of Technology",
