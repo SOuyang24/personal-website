@@ -18,6 +18,7 @@ The website is built in my favourite Tech Stack and deployed on [Vercel](https:/
 - [React Rough Notation](https://roughnotation.com) for Hero section highlighting.
 - [Vercel](https://vercel.com) for deployments and CI/CD.
 - [EmailJS](https://www.emailjs.com/) for email service
+- [Google Analytics](https://analytics.google.com/) for Analytics and Monitoring
 
 
 # Usage
