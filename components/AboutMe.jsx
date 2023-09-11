@@ -105,7 +105,7 @@ export default function AboutMe() {
                 className="h-20 w-20 mx-4 my-4"
               />
               <img alt="Python" src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/Python-Dark.svg" className="h-20 w-20 mx-4 my-4"  />
-
+              <img alt="C#" src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/C#-Logo.svg" className="h-20 w-20 mx-4 my-4"  />
               <img
                alt="HTML"
                 src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/HTML.svg"
@@ -162,6 +162,16 @@ export default function AboutMe() {
                 className="h-20 w-20 mx-4 my-4" 
               />
               <img 
+                alt="RabbitMQ" 
+                src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/RabbitMQ-Dark.svg" 
+                className="h-20 w-20 mx-4 my-4" 
+              /> 
+              <img 
+                alt="ExpressJS" 
+                src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/ExpressJS-Dark.svg" 
+                className="h-20 w-20 mx-4 my-4" 
+              />       
+              <img 
                 alt="NodeJS" 
                 src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/NodeJS-Dark.svg" 
                 className="h-20 w-20 mx-4 my-4" 
@@ -173,6 +183,11 @@ export default function AboutMe() {
               <img
                 alt="Spring" 
                 src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/Spring-Dark.svg"
+                className="h-20 w-20 mx-4 my-4"
+              />
+                <img
+                alt="DotNet" 
+                src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/DotNet.svg"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
@@ -203,6 +218,11 @@ export default function AboutMe() {
               <img
                 alt="AWS" 
                 src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/AWS-Dark.svg"
+                className="h-20 w-20 mx-4 my-4"
+              />
+              <img
+                alt="Azure" 
+                src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/Azure-Dark.svg"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
