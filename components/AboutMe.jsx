@@ -105,7 +105,7 @@ export default function AboutMe() {
                 className="h-20 w-20 mx-4 my-4"
               />
               <img alt="Python" src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/Python-Dark.svg" className="h-20 w-20 mx-4 my-4"  />
-              <img alt="C#" src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/C#-Logo.svg" className="h-20 w-20 mx-4 my-4"  />
+              <img alt="C#" src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/CSharp.svg" className="h-20 w-20 mx-4 my-4"  />
               <img
                alt="HTML"
                 src="https://raw.githubusercontent.com/SOuyang24/skill-icons-example/main/icons/HTML.svg"
