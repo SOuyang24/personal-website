@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "manuarora700",
   linkedin: "https://www.linkedin.com/in/xi-ouyang/",
   name: "Xi Ouyang",
-  designation: "Full-Stack Engineer",
+  designation: "Fullstack Senior Engineer",
   avatarUrl: "/avatar.jpeg",
   email: "simonouyang@gmail.com",
   phone: "+1 4244759376",

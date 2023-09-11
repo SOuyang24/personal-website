@@ -17,6 +17,8 @@ The website is built in my favourite Tech Stack and deployed on [Vercel](https:/
 - [tailwindcss](https://tailwindcss.com) for styling.
 - [React Rough Notation](https://roughnotation.com) for Hero section highlighting.
 - [Vercel](https://vercel.com) for deployments and CI/CD.
+- [EmailJS](https://www.emailjs.com/) for email service
+
 
 # Usage
 - Install all the modules by using `npm i` or `npm install` or `yarn`

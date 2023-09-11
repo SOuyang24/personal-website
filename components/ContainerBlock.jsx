@@ -3,10 +3,11 @@ import Head from "next/head";
 import { useRouter } from "next/router";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
+import Script from "next/script";
 
 export default function ContainerBlock({ children, ...customMeta }) {
   const router = useRouter();
-
+  const GA_ID = process.env.NEXT_PUBLIC_GA_ID;
   const meta = {
     title: "Xi Ouyang - Innovator, Full-Stack Developer, Designer, Scrum Master",
     name: "Xi Ouyang",
@@ -17,7 +18,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
   };
   return (
     <div>
-      <Head>
+      <Head> 
         <title>{meta.title}</title>
         <meta name="robots" content="follow, index" />
         <meta content={meta.description} name="description" />
