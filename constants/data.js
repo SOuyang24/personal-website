@@ -88,7 +88,7 @@ const userData = {
       company: "Bonston Consulting Group",
       year: "2019.4 - present",
       companyLink: "https://www.rsidelivers.com/",
-      desc: "Responsible for analysis, design, and implementation of diverse web components, pages, and web services integral to online tax notice generation and tax accounting & processing. These contributions were instrumental in securing contracts with the Department of Revenue across multiple states and cities.",
+      desc: "•	Led and implemented the large-scale web and mobile apps with and partnered with external clients to introduce new features. Shared and presented software development and emerging technologies best practices with the Engineering team.",
     },
     {
       title: "Tech Lead and Senior Full Stack engineer",
