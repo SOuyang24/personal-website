@@ -1,27 +1,27 @@
 const userData = {
-  githubUsername: "manuarora700",
+  githubUsername: "souyang",
   linkedin: "https://www.linkedin.com/in/xi-ouyang/",
   name: "Xi Ouyang",
-  designation: "Fullstack Senior Engineer",
+  designation: "Senior Full Stack Engineer",
   avatarUrl: "/avatar.jpeg",
   email: "simonouyang@gmail.com",
   phone: "+1 4244759376",
   address: "Los Angeles, California, USA",
   favouriteCertifications: [
     {
+      title: "Enterprise Blockchain Professional",
+      link: "https://www.credential.net/1847ea65-047f-453b-926a-d27fdfef2608",
+      imageUrl: "/certificates/enterprise-blockchain-professional.png"
+    },
+    {
+      title: "Certified Scrum Master",
+      link: "https://certification.scrumalliance.org/accounts/1241022-xi-ouyang/certifications/1436305-csm",
+      imageUrl: "/certificates/scrum-master.png"
+    },
+    {
       title: "Certified Jenkins Engineer",
       link: "https://certificates.cloudbees.com/fc894af2-c74f-485f-8466-39561d474596",
       imageUrl: "/certificates/jenkins.png"
-    },
-    {
-      title: "Oracle Certified Java EE 5 Web Service Developer",
-      link: "https://drive.google.com/file/d/1E0fYbame7e1VkW1_9ugU5lxIuCMGkTpU/view?usp=sharing",
-      imageUrl: "/certificates/javaEE.png"
-    },
-    {
-      title: "Certified Python Developer for Big Data",
-      link: "https://www.edureka.co/my-certificate/791122bd54499049775047642e107fd4?utm_source=linkedin&utm_medium=cert&utm_campaign=linkedincert",
-      imageUrl: "/certificates/python.png"
     },
   ],
   certificates: [
